@@ -30,7 +30,7 @@ To write a Python program that sorts a dictionary's:
 ---
 
 ## 🧪Program
-```
+```python
 def dictionairy(): 
     # Create an empty dictionary
     key_value = {}    
